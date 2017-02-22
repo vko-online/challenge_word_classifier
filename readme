@@ -1,0 +1,6 @@
+this solution contains 2 files
+
+`index.js` - populate common word combinations used mostly
+`solution.js` - the solution itself
+
+generate file called _top_, then reuse its content inside `solution.js`
